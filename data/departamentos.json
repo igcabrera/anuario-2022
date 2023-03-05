@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "nombreDepa": "diseños",
+        "img": "/fotos-departamentos/diseños/1.jpg",
+        "img2": "/fotos-departamentos/diseños/2.jpg",
+        "nombresImg": "Juan Perez, Carlos Ortiz",
+        "nombresImg2": "Juan Perez, Maria Rodriguez, Carlos Ortiz"
+    },
+    {
+        "id": 2,
+        "nombreDepa": "nivel-parvulario",
+        "img": "/fotos-departamentos/nivel-parvulario/1.jpg",
+        "img2": "/fotos-departamentos/nivel-parvulario/2.jpg",
+        "nombresImg": "Juan Perez, Maria Rodriguez, Carlos Ortiz",
+        "nombresImg2": "Maria Rodriguez, Carlos Ortiz"
+    },
+    {
+        "id": 3,
+        "nombreDepa": "nivel-basico",
+        "img": "/fotos-departamentos/nivel-basico/1.jpg",
+        "img2": "/fotos-departamentos/nivel-basico/2.jpg",
+        "nombresImg": "Juan Perez, Maria Rodriguez, Carlos Ortiz",
+        "nombresImg2": "Maria Rodriguez, Carlos Ortiz"
+    },
+    {
+        "id": 4,
+        "nombreDepa": "lenguaje",
+        "img": "/fotos-departamentos/lenguaje/1.jpg",
+        "img2": "/fotos-departamentos/lenguaje/2.jpg",
+        "nombresImg": "Juan Perez, Maria Rodriguez, Carlos Ortiz",
+        "nombresImg2": "Maria Rodriguez, Carlos Ortiz"
+    },
+    {
+        "id": 5,
+        "nombreDepa": "matematica",
+        "img": "/fotos-departamentos/matematica/1.jpg",
+        "img2": "/fotos-departamentos/matematica/2.jpg",
+        "nombresImg": "Juan Perez, Maria Rodriguez, Carlos Ortiz",
+        "nombresImg2": "Maria Rodriguez, Carlos Ortiz"
+    },
+    {
+        "id": 6,
+        "nombreDepa": "historia-filosofia",
+        "img": "/fotos-departamentos/historia-filosofia/1.jpg",
+        "img2": "/fotos-departamentos/historia-filosofia/2.jpg",
+        "nombresImg": "Juan Perez, Maria Rodriguez, Carlos Ortiz",
+        "nombresImg2": "Maria Rodriguez, Carlos Ortiz"
+    },
+    {
+        "id": 7,
+        "nombreDepa": "ciencias-tecnologia",
+        "img": "/fotos-departamentos/ciencias-tecnologia/1.jpg",
+        "img2": "/fotos-departamentos/ciencias-tecnologia/2.jpg",
+        "nombresImg": "Juan Perez, Maria Rodriguez, Carlos Ortiz",
+        "nombresImg2": "Maria Rodriguez, Carlos Ortiz"
+    },
+    {
+        "id": 8,
+        "nombreDepa": "ingles",
+        "img": "/fotos-departamentos/ingles/1.jpg",
+        "img2": "/fotos-departamentos/ingles/2.jpg",
+        "nombresImg": "Juan Perez, Maria Rodriguez, Carlos Ortiz",
+        "nombresImg2": "Maria Rodriguez, Carlos Ortiz"
+    },
+    {
+        "id": 9,
+        "nombreDepa": "educacion-fisica",
+        "img": "/fotos-departamentos/educacion-fisica/1.jpg",
+        "img2": "/fotos-departamentos/educacion-fisica/2.jpg",
+        "nombresImg": "Juan Perez, Maria Rodriguez, Carlos Ortiz",
+        "nombresImg2": "Maria Rodriguez, Carlos Ortiz"
+    },
+    {
+        "id": 10,
+        "nombreDepa": "artes",
+        "img": "/fotos-departamentos/artes/1.jpg",
+        "img2": "/fotos-departamentos/artes/2.jpg",
+        "nombresImg": "Juan Perez, Maria Rodriguez, Carlos Ortiz",
+        "nombresImg2": "Maria Rodriguez, Carlos Ortiz"
+    }
+]

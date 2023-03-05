@@ -1,0 +1,470 @@
+[
+    {
+        "id": "1",
+        "nombreDocente": "KATHERINNE CASTILLO LUNA",
+        "img": "/otros-cursos/1BA/1.jpg",
+        "nombreCurso": "1 BÁSICO A",
+        "categoria": ["1BASICO", "Todos"],
+        "nombresFoto": "Miguel Aburto, Sarah Agurto, Javiera Ávila, Mateo Burgos, Fernanda Cofré, Belén Contreras, Lautaro Cordones, Álvaro Díaz, Joaquín Faúndez, Martina Figueroa, Florencia Gallardo, Gaspar Gómez, Julieta Herrera, Felipe Irribarra, Marcos Jiménez, Emily Márquez, Sofía Martínez, Simón Muñoz, Mateo Navarro, Valentín Orellana, Amanda Orrego, Amanda Oyarzún, Matías Pinto, Nicolle Saravia, Amanda Silva, Agustín Venegas, Constanza Vidal, Constanza Zuchel, Erica Esquivel, Dominga Muñoz, Valentina Olmedo"
+    },
+    {
+        "id": "2",
+        "nombreDocente": "ELIZABETH DEL CARMEN GALLARDO ",
+        "img": "/otros-cursos/1BB/1.jpg",
+        "nombreCurso": "1 BÁSICO B",
+        "categoria": ["1BASICO", "Todos"],
+        "nombresFoto": "Maura  Alarcón, Agustina Aravena, Lisandro Araya, Mauricio  Arias, Darío  Barrera , María Barrientos, María Barrios, Benjamín Antonio Bravo, Colomba  Catalán, Mateo Corral, Amanda Cruz, Sofia Fernández, Valentina González, Isidora  Gutiérrez, Jorge  Márquez, Rafaella Marquizani, Amanda  Molina, Vicente  Muñoz, Amador Alfonso Ochoa, Antonio Pardo, Antonia Pozas, Valentina Romero, Javier Romero Vidal, Monseratt Anaís Salazar, Valentín San Martín, Luciano Vera, Emilio Vidal, Thomás Yévenes, Trinidad Zapata, María  Antonella, Sofía Fernández, Amanda Ceballos "
+    },
+    {
+        "id": "3",
+        "nombreDocente": "JORGE GARRIDO - KENEDYS BETANCOURT ",
+        "img": "/otros-cursos/1BC/1.jpg",
+        "nombreCurso": "1 BÁSICO C",
+        "categoria": ["1BASICO", "Todos"],
+        "nombresFoto": "Camila Arévalo, Raquel Arratia, Dominga Barra, Thomas Bermedo, Emilia Carvajal, Amanda Castillo, Daniel Cid, Helena Demetrio, Amalia Fernández, Noelia Ferreira, Sofia Figueroa, Olivia García, Clemente González, Francisco González, Fidel Guerrero, Josefa Inostroza, María Inzunza, Maite Lizama, Fernanda Marquez, Catalina Mella, Salvador Mellado, Vicente Mendez, Montserrat Mendoza, Ignacia Monsalves, Constanza Ormeño, Sophia Paredes, Fernando Paz, Maximiliano Peña, Agustín Ramírez, Julián Ruiz, Florencia Saavedra, Noelia Saavedra, Fernanda Salvo, Leonardo Sepúlveda, Matilda Sepúlveda, Santiago Sepúlveda, Marcelo Soto, Valentín Núñez, Simona Sepúlveda, Lucas Gallardo, Mateo Oliva"
+    },
+    {
+        "id": "4",
+        "nombreDocente": "CATHERINE MONTECINOS - MARCELA GUTIERREZ",
+        "img": "/otros-cursos/1BD/1.jpg",
+        "nombreCurso": "1 BÁSICO D",
+        "categoria": ["1BASICO", "Todos"],
+        "nombresFoto": "Martín Alarcón, Samuel Alegría, Daniel Araneda, Constanza Avello, Joaquín Avendaño, Tomás Bestwick, Francisco Bizama, Rayén Campos, Eloísa Carrasco, Isabella Castro, Amalia Chávez, Agustina Contreras, Tomás Contreras, Pascal Cortez, Leonor Del Pino, Rodrigo Díaz, Amaro Frez, Francisco Fuentes, Josefina Gutiérrez, Rafaela Hanson, María Herrera, Mariagrazia Iubini, Isabella Lemus, Amanda Llorente, Renata Luengo, Amanda Mardones, Agustín Martínez, Matías Mella, Antonia Nova, Maite Olivárez, Julián Parra, Matilda Pinto, Alex Ramírez, Martín Reyes, Amparo Rivera, Benjamín Rojas, Gustavo Rojas, Rafael Saavedra, Catalina Schneider, Matilda Sepúlveda, Amalia Vargas, Renato Vásquez, Yalile Zaror, y Nicolás Letelier."
+    },
+    {
+        "id": "5",
+        "nombreDocente": "CAROLINA VIDAL",
+        "img": "/otros-cursos/2BA/1.jpg",
+        "nombreCurso": "2 BÁSICO A",
+        "categoria": ["2BASICO", "Todos"],
+        "nombresFoto": "Maithe Alarcón, Simón Arriaza, Víctor Cartes, Marc Castro, Valentina Cea, Isabella Cifuentes, Máximo Duarte, Victoria Espinoza, Martín Estrada, Paulo Figueroa, Javier Gómez, Victoria González, Amparo Guajardo, Isidora Hernández, Mateo Hernández, Emma Lemus, Josefa Martínez, Renata Meza, Dylan Ojeda, Rosa Ojeda, Javiera Orellana, Julián Orias, Renato Pavez, Joaquín Rivera, Carlos Rojas, Felipe Romero, Olivia San Juan, Antonella Sánchez, Josefa Sanhueza, Sofía Santis, Isidora Urrutia, Génesis Vásquez, Valentina Villanueva y Amaro Moraga."
+    },
+    {
+        "id": "6",
+        "nombreDocente": "JAVIERA PARRA",
+        "img": "/otros-cursos/2BB/1.jpg",
+        "nombreCurso": "2 BÁSICO B",
+        "categoria": ["2BASICO", "Todos"],
+        "nombresFoto": "Agustina Alpes, Harold Araneda, Benjamín Arias, Vicente Cáceres, Marco Cáceres, Sofia Carrasco, Damián Castro, Joaquín Díaz, Camilo Dinamarca, Millaray Espinoza, Felipe Espinoza, Ayelen Fuentealba, Franco Giacomozzi, María Guzman, Brandon Herrera, Angela Irulao, Louis-Philippe Michel, Jeremías Neira, Fernanda Núñez, Constanza Painiqueo, Javier Paredes, Renato Pastorini, Vicente Rebollledo, Laura Reyes, Antonia Rivas, Andy Salinas, Manuel Silva, Maureen Stagnaro, Cristobal Torres, Nicolas Torres, Martín Valenzuela, Juan Varela, Martín Zapata, Simona Ruiz, Keiko Stuardo. "
+    },
+    {
+        "id": "7",
+        "nombreDocente": "FERNANDA FERRADA",
+        "img": "/otros-cursos/2BC/1.jpg",
+        "nombreCurso": "2 BÁSICO C",
+        "categoria": ["2BASICO", "Todos"],
+        "nombresFoto": "Martín Alarcón, Samuel Alegría, Daniel Araneda, Constanza Avello, Joaquín Avendaño, Tomás Bestwick, Francisco Bizama, Rayén Campos, Eloísa Carrasco, Isabella Castro, Amalia Chávez, Agustina Contreras, Tomás Contreras, Pascal Cortez, Leonor Del Pino, Rodrigo Díaz, Amaro Frez, Francisco Fuentes, Josefina Gutiérrez, Rafaela Hanson, María Herrera, Mariagrazia Iubini, Isabella Lemus, Amanda Llorente, Renata Luengo, Amanda Mardones, Agustín Martínez, Matías Mella, Antonia Nova, Maite Olivárez, Julián Parra, Matilda Pinto, Alex Ramírez, Martín Reyes, Amparo Rivera, Benjamín Rojas, Gustavo Rojas, Rafael Saavedra, Catalina Schneider, Matilda Sepúlveda, Amalia Vargas, Renato Vásquez, Yalile Zaror, Nicolás Letelier."
+    },
+    {
+        "id": "8",
+        "nombreDocente": "KARINA LOVERA",
+        "img": "/otros-cursos/2BD/1.jpg",
+        "nombreCurso": "2 BÁSICO D",
+        "categoria": ["2BASICO", "Todos"],
+        "nombresFoto": "Luciano Aguayo, Joaquín Avilés, Rayen Bastías, Alfonso Carrera, Emilia Castro, David Castro, Victoria Chandía, Stefano Emart, Agustín Flores, Alfonsina Galgani, Matías García, Cristian Gatica, Amanda Hernández, Trinidad Hook, Matías Ibáñez, Joaquín Jara, Maite Jara, Ignacio Jasma, Braulio Kroll, Mateo Martínez, Daniel Mella, Luciana Moreno, Martín Moreno, Martina Muñoz, Guillermo Navarro, Amparo Olivares, Gaspar Oñate, Josefa Ortiz, Isidora Pérez, Matteo Pineda, Renata Pradena, Ignacio Riquelme, Cristóbal Riquelme, Javiera Roa, Matías Roa, Facundo Salazar, Bruno Saldaña, Nicolás Sanzana, Emma Soto, Amanda Torres, Leonor Valdés, Antonia Vallejos, Miguel Vidal, Amanda Wood, Martina Machuca."
+    },
+    {
+        "id": "9",
+        "nombreDocente": "RICARDO BARRA",
+        "img": "/otros-cursos/2BE/1.jpg",
+        "nombreCurso": "2 BÁSICO E",
+        "categoria": ["2BASICO", "Todos"],
+        "nombresFoto": "Luciano Agüayo, Joaquín Avilés, Rayen Bastías, Alfonso Carrera, Emilia Castro, David Castro, Victoria Chandía, Stefano Emart, Agustín Flores, Alfonsina Galgani, Matías García, Cristian Gatica, Amanda Hernández, Trinidad Hook, Matías Ibáñez, Joaquín Jara, Maite Jara, Ignacio Jasma, Braulio Kroll, Mateo Martínez, Daniel Mella, Luciana Moreno, Martín Moreno, Martina Muñoz, Guillermo Navarro, Amparo Olivares, Gaspar Oñate, Josefa Ortiz, Isidora Pérez, Matteo Pineda, Renata Pradena, Ignacio Riquelme, Cristóbal Riquelme, Javiera Roa, Matías Roa, Facundo Salazar, Bruno Saldaña, Nicolás Sanzana, Emma Soto, Amanda Torres, Leonor Valdés, Antonia Vallejos, Miguel Vidal, Amanda Wood, Martina Machuca."
+    },
+    {
+        "id": "10",
+        "nombreDocente": "VALENTINA ARAYA",
+        "img": "/otros-cursos/3BA/1.jpg",
+        "nombreCurso": "3 BÁSICO A",
+        "categoria": ["3BASICO", "Todos"],
+        "nombresFoto": "Agustín Alvarado, Mateo Arias, Daniel Arriagada, Lucas Bahamonde, Mateo Bastias, Ailén Cerda, Catalina Chaparro, Amanda Cid, Gabriel Cifuentes, Nicolás Echeverría, Isabella Fierro, Simón Fuentes, Gabriel González, Alice Guzmán, Pascal Herrera, Jeremías Hidalgo, Sofía Jara, Emilia Jaramillo, Inara Jiménez, Francisca Lobos, Bruno Medrano, Nicolás Oñate, Esai Oviedo, Sofia Palma, Emilio Pinto, Else Raasch, Ricardo Salas, Fernanda Salort, Luciano Saravia, Bruno Sepúlveda, Julieta Silva, Santiago Vega, Keyla Peña, Camila Valencia."
+    },
+    {
+        "id": "11",
+        "nombreDocente": "ELIANA BELTRÁN",
+        "img": "/otros-cursos/3BB/1.jpg",
+        "nombreCurso": "3 BÁSICO B",
+        "categoria": ["3BASICO", "Todos"],
+        "nombresFoto": "Alondra Andrades, Josefa Araneda, Sebastián Barrientos, Agustín Cárcamo, Isabel Concha, Joaquín Del Canto, Mia Delgado, Florencia Escobar, Mia Farías, Samuel Gajardo, Vicente Gajardo, Felipe Gutiérrez, Mayte Herrera, Emily Irribarra, Antonella Lillo, Camila Mella, Isidora Mora, Tomás Morales, Matilda Navarrete, Agustín Parra, Damián Pérez, Emily Rocha, Mayra Salamanca, Florencia Sanhueza, Amanda Soto, Cristóbal Soto, Sofía Torres, Pascal Troncoso, Tomás Vega, Máximo Zapata, Mateo Pinto, Samuel Acuña, Mayra Silva"
+    },
+    {
+        "id": "12",
+        "nombreDocente": "PAULINA CONTRERAS",
+        "img": "/otros-cursos/3BC/1.jpg",
+        "nombreCurso": "3 BÁSICO C",
+        "categoria": ["3BASICO", "Todos"],
+        "nombresFoto": ""
+    },
+    {
+        "id": "13",
+        "nombreDocente": "MICHELLE GUTIERREZ",
+        "img": "/otros-cursos/3BD/1.jpg",
+        "nombreCurso": "3 BÁSICO D",
+        "categoria": ["3BASICO", "Todos"],
+        "nombresFoto": "Leonor Aguilar, Rafael Alarcón, Amparo Arellano, Benjamín Bello, Sebastián Bello, Benjamín Blanco, Tomás Cárcamo, Renata Castillo, Javier Catalán, Renato Cid, Valentina Cortés, Agustín Cruz, Francisca Durán, Héctor Espinoza, Daniela Espinoza, Martín Fonseca, Lorenzo Fritz, Martín Fuchser, Máximo Fuentes, Agustín Fuentes, Rocío Gallardo, Valentina García, Amanda Godoy, Consuelo González, Franco Gutiérrez, Amaya Morales, Antonella Morales, Carlos Olmos, Julieta Peña, María Ponce, Agustín Puentes, Jorge Ramírez, León Ramírez, César Riquelme, Dominga Ruiz, Arturo Sánchez, Amalia Santos, Rafael Seguel, Pedro Sepúlveda, Tomás Vargas, Antonia Venegas, Alonso Sanhueza."
+    },
+    {
+        "id": "14",
+        "nombreDocente": "VALENTINA FERNANDEZ",
+        "img": "/otros-cursos/4BA/1.jpg",
+        "nombreCurso": "4 BÁSICO A",
+        "categoria": ["4BASICO", "Todos"],
+        "nombresFoto": "Lukas Aguilera, Maximiliano Araneda, Julieta Bahamondes, Juan-Luis Barriga, Matías Burgos, Francisco Campos, Josefa Cifuentes, Agustina De Barberi, Gonzalo Fierro, Matías Figueroa, Antonella Gajardo, Sofía Gallardo, Lucas Letelier, Alfonsina Manquilef, Isabella Medina, Annelise Melzer, Cristóbal Moya, Allisson Neira, Isabella Orrego, Amparo Ortiz, Rafaela Pardo, Rodrigo Paredes, Catalina Roa, Walter Rodríguez, Josefa Salas, Benjamín Salazar, Florencia Silva, Anays Valdivia, Amparo Vejar, Gustavo Zambrano, Renato Díaz, Trinidad Toledo, Agustín Ulloa, Sebastian Crisosto."
+
+    },
+    {
+        "id": "15",
+        "nombreDocente": "MONICA FERNANDEZ",
+        "img": "/otros-cursos/4BB/1.jpg",
+        "nombreCurso": "4 BÁSICO B",
+        "categoria": ["4BASICO", "Todos"],
+        "nombresFoto": "Roque Agurto, Maite Alarcón, Amparo Albónoz, Emilia Alfaro, Jossefa Araneda, Florencia Arriagada, Felipe Avilés, Javiera Durán, Joaquín Guajardo, Ayelén Ibacache, Pedro Lara, Felipe Ledezma, Cristóbal Lermancda, Antonella Martínez, Agustín Matus, Amanda Medel, Stefano Montecinos, Agustín Navarrete, Emily Orellana, Catalina Paz, Thiare Rodríguez, Javiera Rosas, Nicolás San Martín, Valentina Santibáñez, Violeta Segura, Luis Sepúlveda, Roberto Silva, Julian Soto, Maximiliano Vega, Amanda Vera, Isaias Moya, Rafael Pozo, Vicente Allende."
+    },
+    {
+        "id": "16",
+        "nombreDocente": "CATALINA CUBILLOS",
+        "img": "/otros-cursos/4BC/1.jpg",
+        "nombreCurso": "4 BÁSICO C",
+        "categoria": ["4BASICO", "Todos"],
+        "nombresFoto": "Javiera Aguilera, Emilia Alarcón, Agustina Álvarez, Bruno Anguita, Maite Arriagada, Catalina Avendaño, Fernanda Barril, Rocío Brandt, Paz Díaz, Mateo Flores, Nicolás García, Tomás González, Pedro Izquierdo, Florencia Jara, Javier Lavin, Sebastián Leiva, Josefa Leiva, Matías León, Javiera Martínez, Catalina Melgarejo, Cristóbal Méndez, Julián Mendoza, Sebastián Millanir, León Montenegro, Mario-Alonso León, Renato Ochoa, David Pardo, Emilia Peña, Alejandro Peña, Alonso Quilodrán, Matilda Ramírez, Gabriel Romero, Agustín Ruiz, Renato Saavedra, Martín Sáez, José Saéz, Renata Salazar, Benjamín Salinas, Josefa Sánchez, Matías Santana, Rocío Torres, Agustín Valencia, Emilia Villarreal, Matilde Yannucci, Santiago Rojas."
+    },
+    {
+        "id": "17",
+        "nombreDocente": "KARINA VÁSQUEZ",
+        "img": "/otros-cursos/4BD/1.jpg",
+        "nombreCurso": "4 BÁSICO D",
+        "categoria": ["4BASICO", "Todos"],
+        "nombresFoto": "Sofía Aravena, Matilda Arias, Carlos Arias, Constanza Blanco, Eduardo Brandt, Catalina Contreras, Vicente Devia, Tomás Fuentes, Maximiliano Fuentes, Valentina Gallardo, Amanda González, Ignacia González, Renato Guardia, Julieta Jerez, Nicole Martínez, Franco Meier, Alessandro Melis, Daniel Molina, Catalina Monsalve, Julieta Montenegro, Agustín Morgado, Isabella Morgado, Antonella Muñoz, Emilia Muñoz, Javiera OPAZO, Lucas Paredes, Benjamín Peña, Ignacio Pinochet, Catalina Poblete, Agustina Prieto, Valentina Quiroz, Agustina Reyes, Guillermo Rivas, Ignacio Roa, Dominga Rojas, Martina Salazar, Juan Sánchez, Emilia Sandoval, Martín Silva, Antonia Torres, Lucas Valenzuela, Ignacio Vargas, Maite Vidal, Benjamín Zúñiga."
+    },
+    {
+        "id": "18",
+        "nombreDocente": "GLORIA AGUILERA",
+        "img": "/otros-cursos/5BA/1.jpg",
+        "nombreCurso": "5 BÁSICO A",
+        "categoria": ["5BASICO", "Todos"],
+        "nombresFoto": "Antonia Abarzúa, Dante Bascuñán, Sofía Bustos, Bastián Campos, Belén Canales, Martina Cea, Javier Díaz, Sofía Fuentes, Yennifer Gutiérrez, Agustín Marín, Emilia Millán, Bastián Muñoz, Maëlys Navarro, Máximo Olivera, Vicente Osses, Bastián Palma, Nicolás Pinto, Juan Quiroz, Danae Reyes, Diego Rivera, José Roa, Ivana Sanhueza, Elías Selman, Amparo Sepúlveda, Oscar Soto, Colomba Toledo, Darío Torres, Martín Ulloa, Pablo Vega, Matías Venegas, Florencia Osben, Jorge Pacheco."
+    },
+    {
+        "id": "19",
+        "nombreDocente": "MERCEDES CANTERGIANI",
+        "img": "/otros-cursos/5BB/1.jpg",
+        "nombreCurso": "5 BÁSICO B",
+        "categoria": ["5BASICO", "Todos"],
+        "nombresFoto": "Josefa Aedo, José Alarcón, Sergio Aravena, Agustina Belmar, Cristian Bórquez, Matías Bravo, Antonella Cáceres, Aylén Carrión, Cesare Carvallo, Isabel Errázuriz, Levi Figueroa, Julián Figueroa, Amanda Fuentes, Agustín Fuentes, Andrés García, Leandro Gómez, Julián Inalaf, Catalina Neira, Josefa Nelson, Alex Norambuena, Florencia Oyarzo, Francisca Pizarro, Mateo Reyes, Michelle Rocha, Guillermo Salas, Pía San Martín, Martin Sanhueza, Antonia Sanhueza, Demian Seguel, Antonia Valdebenito, Antonella Vega, Yanira Velásquez."
+    },
+    {
+        "id": "20",
+        "nombreDocente": "MARIA ORTIZ",
+        "img": "/otros-cursos/5BC/1.jpg",
+        "nombreCurso": "5 BÁSICO C",
+        "categoria": ["5BASICO", "Todos"],
+        "nombresFoto": "Francisca Agüero, Sofía Aguilar, Valentina Álvarez, Alejandro Arratia, Amaro Badilla, Mateo Bestwick, Amaro Candia, Francisca Chavarría, Martina Cornejo, Magdalena Devcic, Matías Fariñez, Sahir Farrán, Antonia Flores, Josefa Fuentes, Josefa Fuentes, Teo García, Emilia Garrido, Violeta González, Montserrat Llomparte, Vicente Mendoza, Joaquín Moya, Martín Muñoz, Martina Muñoz, Francisca Navarrete, Amanda Ortiz, Valentina Peña, Javiera Pereira, Valentina Ramírez, Gabriela Rebollero, Yerko Reyes, Sofía Rojas, Martina Salas, Sofía Salinas, Joaquín Santana, Amanda Silva, Bruno Soto, Sara Soto G, Sara Soto M, Esteban Tapia, Ignacia Tobar, Ignacio Troncoso, Javiera Urzúa, Amanda Valenzuela, Josefa Vergara, Nicolás Villalobos."
+    },
+    {
+        "id": "21",
+        "nombreDocente": "PABLO LÓPEZ",
+        "img": "/otros-cursos/5BD/1.jpg",
+        "nombreCurso": "5 BÁSICO D",
+        "categoria": ["5BASICO", "Todos"],
+        "nombresFoto": ""
+    },
+    {
+        "id": "22",
+        "nombreDocente": "PAMELA URIBE",
+        "img": "/otros-cursos/6BA/1.jpg",
+        "nombreCurso": "6 BÁSICO A",
+        "categoria": ["6BASICO", "Todos"],
+        "nombresFoto": ""
+    },
+    {
+        "id": "23",
+        "nombreDocente": "MARCELO REYES",
+        "img": "/otros-cursos/6BB/1.jpg",
+        "nombreCurso": "6 BÁSICO B",
+        "categoria": ["6BASICO", "Todos"],
+        "nombresFoto": ""
+    },
+    {
+        "id": "24",
+        "nombreDocente": "MONICA POLANCO",
+        "img": "/otros-cursos/6BC/1.jpg",
+        "nombreCurso": "6 BÁSICO C",
+        "categoria": ["6BASICO", "Todos"],
+        "nombresFoto": ""
+    },
+    {
+        "id": "25",
+        "nombreDocente": "MARIA VOGLIO",
+        "img": "/otros-cursos/6BD/1.jpg",
+        "nombreCurso": "6 BÁSICO D",
+        "categoria": ["6BASICO", "Todos"],
+        "nombresFoto": ""
+    },
+    {
+        "id": "26",
+        "nombreDocente": "VIVIANA ALARCON",
+        "img": "/otros-cursos/7BA/1.jpg",
+        "nombreCurso": "7 BÁSICO A",
+        "categoria": ["7BASICO", "Todos"],
+        "nombresFoto": ""
+    },
+    {
+        "id": "27",
+        "nombreDocente": "DANIELA GRANDON",
+        "img": "/otros-cursos/7BB/1.jpg",
+        "nombreCurso": "7 BÁSICO B",
+        "categoria": ["7BASICO", "Todos"],
+        "nombresFoto": ""
+    },
+    {
+        "id": "28",
+        "nombreDocente": "MARIA MATUS",
+        "img": "/otros-cursos/7BC/1.jpg",
+        "nombreCurso": "7 BÁSICO C",
+        "categoria": ["7BASICO", "Todos"],
+        "nombresFoto": ""
+    },
+    {
+        "id": "29",
+        "nombreDocente": "JUBISSA SALGADO",
+        "img": "/otros-cursos/7BD/1.jpg",
+        "nombreCurso": "7 BÁSICO D",
+        "categoria": ["7BASICO", "Todos"],
+        "nombresFoto": ""
+    },
+    {
+        "id": "30",
+        "nombreDocente": "KAREN VASQUEZ",
+        "img": "/otros-cursos/8BA/1.jpg",
+        "nombreCurso": "8 BÁSICO A",
+        "categoria": ["8BASICO", "Todos"],
+        "nombresFoto": ""
+    },
+    {
+        "id": "31",
+        "nombreDocente": "VIVIANA ESCOBAR",
+        "img": "/otros-cursos/8BB/1.jpg",
+        "nombreCurso": "8 BÁSICO B",
+        "categoria": ["8BASICO", "Todos"],
+        "nombresFoto": ""
+    },
+    {
+        "id": "32",
+        "nombreDocente": "JOSÉ GACITÚA",
+        "img": "/otros-cursos/8BC/1.jpg",
+        "nombreCurso": "8 BÁSICO C",
+        "categoria": ["8BASICO", "Todos"],
+        "nombresFoto": ""
+    },
+    {
+        "id": "33",
+        "nombreDocente": "JAVIER ALVARADO",
+        "img": "/otros-cursos/8BD/1.jpg",
+        "nombreCurso": "8 BÁSICO D",
+        "categoria": ["8BASICO", "Todos"],
+        "nombresFoto": ""
+    },
+    {
+        "id": "34",
+        "nombreDocente": "JULIA PASTENES",
+        "img": "/otros-cursos/1MA/1.jpg",
+        "nombreCurso": "1 MEDIO A",
+        "categoria": ["1MEDIO", "Todos"],
+        "nombresFoto": ""
+    },
+    {
+        "id": "35",
+        "nombreDocente": "KAREN ULLOA",
+        "img": "/otros-cursos/1MB/1.jpg",
+        "nombreCurso": "1 MEDIO B",
+        "categoria": ["1MEDIO", "Todos"],
+        "nombresFoto": ""
+    },
+    {
+        "id": "36",
+        "nombreDocente": "MACARENA PINILLA",
+        "img": "/otros-cursos/1MC/1.jpg",
+        "nombreCurso": "1 MEDIO C",
+        "categoria": ["1MEDIO", "Todos"],
+        "nombresFoto": ""
+    },
+    {
+        "id": "37",
+        "nombreDocente": "HECTOR SAEZ",
+        "img": "/otros-cursos/1MD/1.jpg",
+        "nombreCurso": "1 MEDIO D",
+        "categoria": ["1MEDIO", "Todos"],
+        "nombresFoto": ""
+    },
+    {
+        "id": "38",
+        "nombreDocente": "CONSTANZA RAMIREZ",
+        "img": "/otros-cursos/1ME/1.jpg",
+        "nombreCurso": "1 MEDIO E",
+        "categoria": ["1MEDIO", "Todos"],
+        "nombresFoto": ""
+    },
+    {
+        "id": "39",
+        "nombreDocente": "MAURICIO CUEVAS",
+        "img": "/otros-cursos/1MF/1.jpg",
+        "nombreCurso": "1 MEDIO F",
+        "categoria": ["1MEDIO", "Todos"],
+        "nombresFoto": ""
+    },
+    {
+        "id": "40",
+        "nombreDocente": "CAROLINA NOVOA",
+        "img": "/otros-cursos/2MA/1.jpg",
+        "nombreCurso": "2 MEDIO A",
+        "categoria": ["2MEDIO", "Todos"],
+        "nombresFoto": ""
+    },
+    {
+        "id": "41",
+        "nombreDocente": "DOMINIQUE OPAZO",
+        "img": "/otros-cursos/2MB/1.jpg",
+        "nombreCurso": "2 MEDIOO B",
+        "categoria": ["2MEDIO", "Todos"],
+        "nombresFoto": ""
+    },
+    {
+        "id": "42",
+        "nombreDocente": "JAIME PINTO",
+        "img": "/otros-cursos/2MC/1.jpg",
+        "nombreCurso": "2 MEDIO C",
+        "categoria": ["2MEDIO", "Todos"],
+        "nombresFoto": ""
+    },
+    {
+        "id": "43",
+        "nombreDocente": "VICTORIA SEPÚLVEDA",
+        "img": "/otros-cursos/2MD/1.jpg",
+        "nombreCurso": "2 MEDIO D",
+        "categoria": ["2MEDIO", "Todos"],
+        "nombresFoto": ""
+    },
+    {
+        "id": "44",
+        "nombreDocente": "GABRIELA RIOS",
+        "img": "/otros-cursos/2ME/1.jpg",
+        "nombreCurso": "2 MEDIO E",
+        "categoria": ["2BASICO", "Todos"],
+        "nombresFoto": ""
+    },
+    {
+        "id": "45",
+        "nombreDocente": "LILIANA BARRERA",
+        "img": "/otros-cursos/2MF/1.jpg",
+        "nombreCurso": "2 MEDIO F",
+        "categoria": ["2MEDIO", "Todos"],
+        "nombresFoto": ""
+    },
+    {
+        "id": "46",
+        "nombreDocente": "VALENTINA ARAYA",
+        "img": "/otros-cursos/3MA/1.jpg",
+        "nombreCurso": "3 MEDIO A",
+        "categoria": ["3MEDIO", "Todos"],
+        "nombresFoto": ""
+    },
+    {
+        "id": "47",
+        "nombreDocente": "ELIANA BELTRÁN",
+        "img": "/otros-cursos/3MB/1.jpg",
+        "nombreCurso": "3 MEDIO B",
+        "categoria": ["2MEDIO", "Todos"],
+        "nombresFoto": ""
+    },
+    {
+        "id": "48",
+        "nombreDocente": "ARIEL MUÑOZ",
+        "img": "/otros-cursos/3MC/1.jpg",
+        "nombreCurso": "3 MEDIO C",
+        "categoria": ["3MEDIO", "Todos"],
+        "nombresFoto": ""
+    },
+    {
+        "id": "49",
+        "nombreDocente": "ANDRÉS GONZÁLEZ",
+        "img": "/otros-cursos/3MD/1.jpg",
+        "nombreCurso": "3 MEDIO D",
+        "categoria": ["3MEDIO", "Todos"],
+        "nombresFoto": ""
+    },
+    {
+        "id": "50",
+        "nombreDocente": "DIEGO PLACENCIA",
+        "img": "/otros-cursos/3ME/1.jpg",
+        "nombreCurso": "3 MEDIO E",
+        "categoria": ["3MEDIO", "Todos"],
+        "nombresFoto": ""
+    },
+    
+    {
+        "id": "51",
+        "nombreDocente": "CAROLINA GARCÍA",
+        "img": "/otros-cursos/KA/1.jpg",
+        "nombreCurso": "KÍNDER A",
+        "categoria": ["KINDER", "Todos"],
+        "nombresFoto": ""
+    },
+    {
+        "id": "52",
+        "nombreDocente": "GRICELDA VILLALOBOS",
+        "img": "/otros-cursos/KB/1.jpg",
+        "nombreCurso": "KÍNDER B",
+        "categoria": ["KINDER", "Todos"],
+        "nombresFoto": ""
+    },
+    {
+        "id": "53",
+        "nombreDocente": "PILAR RODRIGUEZ",
+        "img": "/otros-cursos/KC/1.jpg",
+        "nombreCurso": "KÍNDER C",
+        "categoria": ["KINDER", "Todos"],
+        "nombresFoto": ""
+    },
+    {
+        "id": "54",
+        "nombreDocente": "ELIZABETH QUIROGA",
+        "img": "/otros-cursos/KD/1.jpg",
+        "nombreCurso": "KÍNDER D",
+        "categoria": ["KINDER", "Todos"],
+        "nombresFoto": ""
+    },
+    {
+        "id": "55",
+        "nombreDocente": "CAROLINA JEREZ",
+        "img": "/otros-cursos/PKA/1.jpg",
+        "nombreCurso": "PREKÍNDER A",
+        "categoria": ["PREKINDER", "Todos"],
+        "nombresFoto": ""
+    },
+    {
+        "id": "56",
+        "nombreDocente": "VANIA FUENTES",
+        "img": "/otros-cursos/PKB/1.jpg",
+        "nombreCurso": "PREKÍNDER B",
+        "categoria": ["PREKINDER", "Todos"],
+        "nombresFoto": ""
+    },
+    {
+        "id": "57",
+        "nombreDocente": "JAZMIN BURGOS",
+        "img": "/otros-cursos/PKC/1.jpg",
+        "nombreCurso": "PREKÍNDER C",
+        "categoria": ["PREKINDER", "Todos"],
+        "nombresFoto": ""
+    },
+    {
+        "id": "58",
+        "nombreDocente": "KAREN SANHUEZA",
+        "img": "/otros-cursos/PKD/1.jpg",
+        "nombreCurso": "PREKÍNDER D",
+        "categoria": ["PREKINDER", "Todos"],
+        "nombresFoto": ""
+    }
+]
+
+

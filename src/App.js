@@ -36,7 +36,7 @@ import Plantel from "./pages/Plantel";
 
 export default function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
       <Routes>
         <Route path="/" element={<LayoutHome />}>
           <Route index element={<Home />} />

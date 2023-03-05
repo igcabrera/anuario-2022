@@ -1,5 +1,5 @@
 import React from "react";
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { HashRouter, Routes, Route } from "react-router-dom";
 import SemblanzasA from "./components/SemblanzasA";
 import SemblanzasB from "./components/SemblanzasB";
 import SemblanzasC from "./components/SemblanzasC";
@@ -36,7 +36,8 @@ import Plantel from "./pages/Plantel";
 
 export default function App() {
   return (
-    <BrowserRouter basename={process.env.PUBLIC_URL}>
+    
+<HashRouter basename={process.env.PUBLIC_URL}>
       <Routes>
         <Route path="/" element={<LayoutHome />}>
           <Route index element={<Home />} />
@@ -76,6 +77,6 @@ export default function App() {
         </Route>
         <Route path="*" element={<Error404 />} />
       </Routes>
-    </BrowserRouter>
+    </HashRouter>
   );
 }

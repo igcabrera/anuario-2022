@@ -1,13 +1,48 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* editar flechas slider alumnos */
+.slick-prev::before, .slick-next::before {
+
+	font-size: 30px;
+	color: black;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+
+.head-interior-nivel-parvulario {
+    height: 25vh;
+    background-image: 
+    linear-gradient(to right bottom, 
+     rgba(76, 216, 255, 0.8),
+     rgba(30, 108, 217, 0.8)),
+     url('https://images.pexels.com/photos/1279813/pexels-photo-1279813.jpeg');
+    
+  background-size: cover;
+    background-position: top;
+    position: relative;
+  }
+
+ 
+.hero {
+	height: 70vh;
+	background: linear-gradient(45deg, rgba(162, 228, 109, 0.7), rgba(48, 186, 217, 0.7), rgba(234,236,198,.7), rgba(14, 100, 20, 0.7), rgba(52,219,216,.7)) 0 0 / 1000% no-repeat, url('/public/img/colegio.jpg') 0 0 / cover no-repeat;
+	-webkit-animation: gradientAnimation 40s ease infinite;
+	animation: gradientAnimation 40s ease infinite;
+}
+@-webkit-keyframes gradientAnimation {
+	0%   { background-position: 0% 30%, 0 0;}
+	50%  { background-position: 100% 70%, 0 0;}
+	100% { background-position: 0% 30%, 0 0;}
+}
+@keyframes gradientAnimation {
+	0%   { background-position: 0% 30%, 0 0;}
+	50%  { background-position: 100% 70%, 0 0;}
+	100% { background-position: 0% 30%, 0 0;}
+}
+.heroo {
+	color: #fff;
+	font : normal 600 'Open Sans', sans-serif;
+	text-align: center;
+	white-space: nowrap;
 }

@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/anuario-2022/static/css/main.a7cb7472.css",
-    "main.js": "/anuario-2022/static/js/main.fbe9757d.js",
+    "main.js": "/anuario-2022/static/js/main.f8fb7fa8.js",
     "static/js/787.a206ed61.chunk.js": "/anuario-2022/static/js/787.a206ed61.chunk.js",
     "static/media/colegio.jpg": "/anuario-2022/static/media/colegio.a5a297ae6e4bbb616bec.jpg",
     "static/media/slick.svg": "/anuario-2022/static/media/slick.2630a3e3eab21c607e21.svg",
@@ -10,11 +10,11 @@
     "static/media/slick.woff": "/anuario-2022/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/anuario-2022/index.html",
     "main.a7cb7472.css.map": "/anuario-2022/static/css/main.a7cb7472.css.map",
-    "main.fbe9757d.js.map": "/anuario-2022/static/js/main.fbe9757d.js.map",
+    "main.f8fb7fa8.js.map": "/anuario-2022/static/js/main.f8fb7fa8.js.map",
     "787.a206ed61.chunk.js.map": "/anuario-2022/static/js/787.a206ed61.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a7cb7472.css",
-    "static/js/main.fbe9757d.js"
+    "static/js/main.f8fb7fa8.js"
   ]
 }

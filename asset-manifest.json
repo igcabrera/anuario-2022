@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/anuario-2022/static/css/main.a7cb7472.css",
-    "main.js": "/anuario-2022/static/js/main.b1340133.js",
-    "static/js/787.a206ed61.chunk.js": "/anuario-2022/static/js/787.a206ed61.chunk.js",
-    "static/media/colegio.jpg": "/anuario-2022/static/media/colegio.a5a297ae6e4bbb616bec.jpg",
-    "static/media/slick.svg": "/anuario-2022/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/anuario-2022/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/anuario-2022/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "/anuario-2022/static/media/slick.295183786cd8a1389865.woff",
-    "index.html": "/anuario-2022/index.html",
-    "main.a7cb7472.css.map": "/anuario-2022/static/css/main.a7cb7472.css.map",
-    "main.b1340133.js.map": "/anuario-2022/static/js/main.b1340133.js.map",
-    "787.a206ed61.chunk.js.map": "/anuario-2022/static/js/787.a206ed61.chunk.js.map"
+    "main.css": "/static/css/main.9d21f3df.css",
+    "main.js": "/static/js/main.5ac94d57.js",
+    "static/js/787.a206ed61.chunk.js": "/static/js/787.a206ed61.chunk.js",
+    "static/media/colegio.jpg": "/static/media/colegio.a5a297ae6e4bbb616bec.jpg",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.9d21f3df.css.map": "/static/css/main.9d21f3df.css.map",
+    "main.5ac94d57.js.map": "/static/js/main.5ac94d57.js.map",
+    "787.a206ed61.chunk.js.map": "/static/js/787.a206ed61.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a7cb7472.css",
-    "static/js/main.b1340133.js"
+    "static/css/main.9d21f3df.css",
+    "static/js/main.5ac94d57.js"
   ]
 }
